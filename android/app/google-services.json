@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172995413609",
+    "project_id": "secondproject-5e109",
+    "storage_bucket": "secondproject-5e109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172995413609:android:7dbcf86908cbafbdf804f8",
+        "android_client_info": {
+          "package_name": "karon.tradingscrore.tradingscrore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172995413609-e52thk2q5eb98mm8qpv6vjs3n3ic8urr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdXPNj5rSVOMOLIzUFGr3ohTDGpiULfaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172995413609-e52thk2q5eb98mm8qpv6vjs3n3ic8urr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
